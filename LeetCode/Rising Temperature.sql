@@ -1,3 +1,5 @@
+-- Problem link: https://leetcode.com/problems/rising-temperature/description/
+
 SELECT w1.id
 FROM Weather w1
 JOIN Weather w2
