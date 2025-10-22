@@ -1,3 +1,5 @@
+-- Problem link: https://leetcode.com/problems/delete-duplicate-emails/description/
+
 DELETE FROM Person
 WHERE id NOT IN (
     SELECT id FROM (
