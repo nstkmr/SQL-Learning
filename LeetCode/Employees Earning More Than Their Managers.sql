@@ -1,4 +1,4 @@
--- Problem link: https://leetcode.com/problems/employees-earning-more-than-their-managers/description/
+-- Problem link: https://leetcode.com/problems/employees-earning-more-than-their-managers/
 
 SELECT name AS Employee 
 FROM Employee e

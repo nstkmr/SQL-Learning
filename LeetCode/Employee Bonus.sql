@@ -1,4 +1,4 @@
--- Problem link: https://leetcode.com/problems/employee-bonus/description/
+-- Problem link: https://leetcode.com/problems/employee-bonus/
 
 SELECT e.name, b.bonus
 FROM Employee e

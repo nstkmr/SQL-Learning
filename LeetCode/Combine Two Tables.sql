@@ -1,4 +1,4 @@
--- Problem link: https://leetcode.com/problems/combine-two-tables/description/
+-- Problem link: https://leetcode.com/problems/combine-two-tables/
 
 SELECT p.firstName, p.lastName, a.city, a.state
 FROM Person p

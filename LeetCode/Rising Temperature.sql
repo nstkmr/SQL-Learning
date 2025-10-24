@@ -1,4 +1,4 @@
--- Problem link: https://leetcode.com/problems/rising-temperature/description/
+-- Problem link: https://leetcode.com/problems/rising-temperature/
 
 SELECT w1.id
 FROM Weather w1

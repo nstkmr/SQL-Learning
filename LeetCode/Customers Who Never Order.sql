@@ -1,4 +1,4 @@
--- Problem link: https://leetcode.com/problems/customers-who-never-order/description/
+-- Problem link: https://leetcode.com/problems/customers-who-never-order/
 
 SELECT c.name as Customers
 FROM Customers c

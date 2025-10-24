@@ -1,4 +1,4 @@
--- Problem link: https://leetcode.com/problems/duplicate-emails/description/
+-- Problem link: https://leetcode.com/problems/duplicate-emails/
 
 SELECT email 
 FROM Person 

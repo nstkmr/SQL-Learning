@@ -1,0 +1,7 @@
+-- Problem link: https://leetcode.com/problems/find-customer-referee/
+
+SELECT c1.name 
+FROM Customer c1
+JOIN Customer c2
+ON c1.id=c2.id
+WHERE c2.referee_id!=2 OR c2.referee_id IS NULL;

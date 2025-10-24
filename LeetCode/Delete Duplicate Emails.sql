@@ -1,4 +1,4 @@
--- Problem link: https://leetcode.com/problems/delete-duplicate-emails/description/
+-- Problem link: https://leetcode.com/problems/delete-duplicate-emails/
 
 DELETE FROM Person
 WHERE id NOT IN (
